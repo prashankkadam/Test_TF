@@ -2,3 +2,7 @@ This is the test code for tensorflow.
 Running a simple regression on the california_housing_data
 Running a simple neural network on the the california_housing_data
 Embedding a sparse dataset
+
+Keras Sequential Modeling:
+1 - Multilayer Perceptron
+2 - Convolution Neural Network
